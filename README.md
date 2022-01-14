@@ -1,8 +1,6 @@
 <h1 align="center">...(*￣０￣)ノ Sup I'm BOLT</h1>
 <h3 align="center">A passionate 14 year old frontend developer from Indore, India.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityeahhh" alt="adityeahhh" /></a> </p>
-
 - 🔭 I’m currently working on [Hexamora](https://github.com/Adityeahhh/Hexamora)
 
 - 🌱 I’m currently learning **ReactJS, c#**
