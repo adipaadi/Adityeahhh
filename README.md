@@ -7,7 +7,7 @@
 - 📫 How to reach me **adty200807@gmail.com**
 
 
-## Current working on hexasova
+## Currently working on hexasova
 [![Hexasova](https://github-readme-stats-bolt.vercel.app/api?username=Adityeahhh&theme=tokyonight)](https://github.com/Adityeahhh/Hexasova)
 
 <h3 align="center">Languages and Tools:</h3>
