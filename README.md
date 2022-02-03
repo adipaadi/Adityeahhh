@@ -7,7 +7,7 @@
 - 📫 How to reach me **adty200807@gmail.com**
 
 
-## Currently working on hexasova
+## Currently working on Fernosa
 [![aperii](https://github-readme-stats.vercel.app/api/pin/?username=Adityeahhh&repo=Hexasova&bg_color=141321&text_color=fff)](https://github.com/Adityeahhh/Hexasova)
 
 <h3 align="center">Languages and Tools:</h3>
