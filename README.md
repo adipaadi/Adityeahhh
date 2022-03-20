@@ -7,7 +7,7 @@
 - 📫 How to reach me **adty200807@gmail.com**
 
 
-## Owner Of Fernosa
+## Founder Of Fernosa
 [![aperii](https://github-readme-stats.vercel.app/api/pin/?username=Fernosa&repo=FernosaCSS&bg_color=141321&text_color=fff)](https://github.com/Fernosa/FernosaCSS)
 
 <h3 align="center">Languages and Tools:</h3>
