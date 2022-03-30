@@ -10,7 +10,7 @@
 
 <div align="center">
     <h3>Project I'm Working On<h3>
-    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=Loadless&repo=Loadless&bg_color=#05094d&text_color=#9926bf](https://github.com/Fernosa/FernosaCSS)">
+    [![aperii](https://github-readme-stats.vercel.app/api/pin/?username=Loadless&repo=Loadless&bg_color=141321&text_color=fff)](https://github.com/Loadless/Loadless)
 </div>
 
 
