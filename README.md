@@ -3,16 +3,15 @@
 
 <h1 align="center">Sup 👋 I'm BOLT</h1>
 <h3 align="center">A passionate 14 year old frontend developer from Indore, India.</h3>
+<p align="center">📫 How to reach me **ADI#0544** </p>
+<p align="center">🌱 I’m currently learning **ReactJS**</p>
 
 
-- 🌱 I’m currently learning **ReactJS**
-
-- 📫 How to reach me **adty200807@gmail.com**
 
 
 <div align="center">
     <h3>Project I'm Working On<h3>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Loadless&repo=Loadless&bg_color=#05094d&text_color=#9926bf)](https://github.com/Fernosa/FernosaCSS)">
+    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=Loadless&repo=Loadless&bg_color=#05094d&text_color=#9926bf)](https://github.com/Fernosa/FernosaCSS)">
 </div>
 
 
@@ -26,4 +25,4 @@
 </div>
 
 <h3 align="center">My Language Stats</h3>
-<p align="center"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adityeahhh&hide=html,css$theme=synthwave)](https://github.com/anuraghazra/github-readme-stats"><p>
+<p align="center"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adityeahhh&hide=css,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats"><p>
