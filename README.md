@@ -11,8 +11,8 @@
 
 
 <div align="center">
-    <h3>Project I'm Working on<h3>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Loadless&repo=Loadless&bg_color=141321&text_color=fff)](https://github.com/Fernosa/FernosaCSS)">
+    <h3>Project I'm Working On<h3>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Loadless&repo=Loadless&bg_color=#05094d&text_color=#9926bf)](https://github.com/Fernosa/FernosaCSS)">
 </div>
 
 
@@ -26,4 +26,4 @@
 </div>
 
 <h3 align="center">My Language Stats</h3>
-<p align="center"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adityeahhh&theme=synthwave&hide=html,css)](https://github.com/anuraghazra/github-readme-stats"><p>
+<p align="center"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adityeahhh&hide=html,css$theme=synthwave)](https://github.com/anuraghazra/github-readme-stats"><p>
