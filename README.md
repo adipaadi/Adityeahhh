@@ -10,9 +10,8 @@
 ## Project I'm Working on
 [![aperii](https://github-readme-stats.vercel.app/api/pin/?username=Loadless&repo=Loadless&bg_color=141321&text_color=fff)](https://github.com/Fernosa/FernosaCSS)
 
-
-<h3 align="center">[![My Stats](https://github-readme-stats.vercel.app/api?username=Adityeahhh&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-<h3>
+<h3 align="center">My Stats</h3>
+<p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=Adityeahhh&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats"><p>
 
 
 <h3 align="center">Languages and Tools:</h3>
