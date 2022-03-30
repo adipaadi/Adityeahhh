@@ -1,4 +1,4 @@
-<img align="center" src="https://imgur.com/a/PZoAtoe" width="100%">
+<img align="center" src="./image_2022-03-30_221915.png" width="100%">
 
 
 <h1 align="center">Sup 👋 I'm BOLT</h1>
