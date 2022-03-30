@@ -1,3 +1,6 @@
+<img align="center" src="https://imgur.com/a/PZoAtoe" width="100%">
+
+
 <h1 align="center">Sup 👋 I'm BOLT</h1>
 <h3 align="center">A passionate 14 year old frontend developer from Indore, India.</h3>
 
