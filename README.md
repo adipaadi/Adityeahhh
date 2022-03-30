@@ -12,7 +12,7 @@
 
 <div align="center">
     <h3>Project I'm Working on<h3>
-    [![aperii](https://github-readme-stats.vercel.app/api/pin/?username=Loadless&repo=Loadless&bg_color=141321&text_color=fff)](https://github.com/Fernosa/FernosaCSS)
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Loadless&repo=Loadless&bg_color=141321&text_color=fff)](https://github.com/Fernosa/FernosaCSS)">
 </div>
 
 
