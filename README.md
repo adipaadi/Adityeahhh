@@ -3,15 +3,14 @@
 
 <h1 align="center">Sup 👋 I'm BOLT</h1>
 <h3 align="center">A passionate 14 year old frontend developer from Indore, India.</h3>
-<p align="center">📫 How to reach me **ADI#0544** </p>
-<p align="center">🌱 I’m currently learning **ReactJS**</p>
+<br>
 
 
 
 
 <div align="center">
     <h3>Project I'm Working On<h3>
-    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=Loadless&repo=Loadless&bg_color=#05094d&text_color=#9926bf)](https://github.com/Fernosa/FernosaCSS)">
+    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=Loadless&repo=Loadless&bg_color=#05094d&text_color=#9926bf](https://github.com/Fernosa/FernosaCSS)">
 </div>
 
 
@@ -25,5 +24,5 @@
 </div>
 <div align="center">
     <h3>My Language Stats</h3>
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adityeahhh&hide=css,html&theme=tokyonight">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adityeahhh&hide=css,html&theme=synthwave">
 </div>
