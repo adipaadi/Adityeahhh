@@ -25,4 +25,4 @@
 </div>
 
 <h3 align="center">My Language Stats</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adityeahhh&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityeahhh&theme=tokyonight&hide=css />
