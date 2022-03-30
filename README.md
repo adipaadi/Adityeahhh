@@ -23,6 +23,7 @@
  <h3>Github Stats:</h3> 
   <img src="/github-metrics.svg" alt="Metrics">
 </div>
-
-<h3 align="center">My Language Stats</h3>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityeahhh&theme=tokyonight&hide=css />
+<div align="center">
+    <h3>My Language Stats</h3>
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adityeahhh&hide=css,html&theme=tokyonight">
+</div>
