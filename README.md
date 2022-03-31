@@ -1,8 +1,8 @@
 <img align="center" src="./image_2022-03-30_221915.png" width="100%">
 
 
-<h1 align="center">Sup 👋 I'm BOLT</h1>
-<h3 align="center">A passionate 14 year old frontend developer from Indore, India.</h3>
+<h1 align="center">Hewwo OwO</h1>
+<h3 align="center">I'm a passionate 14 year old frontend developer from India.</h3>
 <br>
 
 
