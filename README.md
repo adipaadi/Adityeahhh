@@ -15,7 +15,7 @@
  <h3>Github Stats:</h3> 
   <img src="/github-metrics.svg" alt="Metrics">
 </div>
-<div align="center">
+<!-- <div align="center">
     <h3>My Language Stats</h3>
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adityeahhh&hide=css,html&theme=synthwave">
-</div>
+</div> -->
