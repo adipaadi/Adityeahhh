@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hewwo OwO</h1>
-<h1 align="center">I'm a passionate 14 year old frontend developer from India.</h3>
+<h2 align="center">I'm a passionate 14 year old frontend developer from India.</h3>
 
 
 <h3 align="center">Languages</h3>
