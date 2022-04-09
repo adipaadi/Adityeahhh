@@ -7,9 +7,17 @@
 
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages</h3>
 <p align="center"><img src="https://skillicons.dev/icons?i=js,html,css,py"></p>
 
+<h3 align="center">Frameworks</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=bootstrap,sass,react"></p>
+
+<h3 align="center">Databases</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=mongodb,postgres"></p>
+
+<h3 align="center">Tools</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=vscode,figma,git,stackoverflow"></p>
 <br>
 <div align="center">
  <h3>Github Stats:</h3> 
