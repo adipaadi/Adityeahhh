@@ -4,8 +4,8 @@
 <h1 align="center">Hewwo OwO</h1>
 <h2 align="center">I'm a passionate 15 year old frontend developer from India.</h3>
 <h3>Projects</h3>
-<p> - [https://github.com/Fernosa/FernosaCSS](Fernosa UI framework)</p>
-<p> - [https://github.com/loadless/loadless](Loadless JS library)</p>
+<p> - (https://github.com/Fernosa/FernosaCSS)[Fernosa UI framework]</p>
+<p> - (https://github.com/loadless/loadless)[Loadless JS library]</p>
 
 
 
